@@ -1,6 +1,5 @@
 import React from 'react';
 import Link from 'next/link';
-import { Canvas } from '@react-three/fiber';
 import { urlFor } from '../lib/client';
 
 const HeroBanner = ( { heroBanner } ) => {
